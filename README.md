@@ -38,7 +38,7 @@ Focused on developer productivity tooling, modern Android applications, and AI-a
 
 ### 🌟 Featured Open-Source Projects
 
-- **[`ctxpack`](https://github.com/abzurdd/ctxpack)** — Ultra-fast, zero-dependency CLI & library to bundle codebases into token-counted, secret-safe prompts for Claude, Gemini, and GPT.
+- **[`ctxpack`](https://github.com/abzurdd/ctxpack)** ([Live Playground](https://abzurdd.github.io/ctxpack/)) — Ultra-fast, zero-dependency CLI & library to bundle codebases into token-counted, secret-safe prompts for Claude, Gemini, and GPT. Supports `--diff` for instant PR code reviews.
 - **`Trakit`** — Privacy-first Android personal finance manager built with Kotlin and Jetpack Compose featuring biometric security and local-first storage.
 - **`Compressit`** — On-device image compression tool delivering fast, offline-first image optimization.
 
@@ -60,3 +60,4 @@ Focused on developer productivity tooling, modern Android applications, and AI-a
 
 - **GitHub**: [@abzurdd](https://github.com/abzurdd)
 - **Email**: [iabhishek113@gmail.com](mailto:iabhishek113@gmail.com)
+
